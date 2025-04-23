@@ -1,0 +1,19 @@
+# .gitignore
+
+# Virtual Environment
+venv/
+env/
+gesture_guru/Lib/
+__pycache__/
+*.pyc
+*.pyo
+
+# IDEs and OS
+.vscode/
+.DS_Store
+.idea/
+
+# Data and models (if applicable)
+*.h5
+*.pkl
+*.pb
