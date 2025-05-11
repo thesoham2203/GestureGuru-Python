@@ -13,12 +13,7 @@ __pycache__/
 .DS_Store
 .idea/
 
-
-
-# Ignore Python virtual environments
-gesture_guru/Lib/
-gesture_guru/Include/
-gesture_guru/Scripts/
-gesture_guru/pyvenv.cfg
-__pycache__/
-*.pyc
+# Data and models (if applicable)
+*.h5
+*.pkl
+*.pb
